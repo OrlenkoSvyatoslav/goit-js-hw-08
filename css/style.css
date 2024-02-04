@@ -9,6 +9,10 @@ a {
   text-decoration: none;
 }
 
+body {
+  width: 1128px;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
